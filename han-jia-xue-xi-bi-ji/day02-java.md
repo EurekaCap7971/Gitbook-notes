@@ -91,6 +91,8 @@ String str3= new String(charArray);
 */
 ```
 
+![](../.gitbook/assets/image-20210216211000171.png)
+
 ### String类常用的方法
 
 String有很多的方法，下面列举一些比较常用的：

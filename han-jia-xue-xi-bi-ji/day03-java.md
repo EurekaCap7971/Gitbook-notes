@@ -94,6 +94,8 @@ public static void getMax(double a,double b){
 * 堆中new了一块区域，用于保存创建的类对象的成员变量，其中**每个成员变量拥有独立的地址**，**成员方法存储的是方法区的成员方法地址**
 * 栈中存储的是创建的类对象的地址，地址指向堆中成员变量的区域
 
+![](../.gitbook/assets/image-20210217231813424.png)
+
 ## Static
 
 ### 作用于成员变量时
@@ -152,6 +154,8 @@ public static void main(String[] args){
 **静态方法不能访问非静态变量**，但是可以访问静态变量→在内存中先有【静态变量】，才有【非静态变量】
 
 ### Static内存图
+
+![](../.gitbook/assets/image-20210217224547263.png)
 
 当访问one和two的成员变量时，会在堆中查找对应的地址取值
 
