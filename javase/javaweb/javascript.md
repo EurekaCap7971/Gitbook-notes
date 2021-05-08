@@ -337,3 +337,7 @@ W3C DOM分为三大部分：
       * `onsubmit`确认按钮被点击，通常用于表单检验，返回值为false可以阻止提交表单
       * `onreset`重置按钮被点击
 
+!\[image\]\(http://121.4.249.42/images/gg.jpg\)
+
+
+
